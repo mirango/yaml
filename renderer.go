@@ -3,7 +3,7 @@ package yaml
 import (
 	"io"
 
-	"github.com/wlMalk/mirango/framework"
+	"github.com/mirango/framework"
 	"gopkg.in/yaml.v2"
 )
 
